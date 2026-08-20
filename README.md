@@ -116,9 +116,7 @@ A movie browsing/listing web app built with **HTML & CSS**.
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vikash3401&theme=radical&hide_border=true" alt="Vikash's GitHub Streak" height="165"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vikash3401&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+
 <!-- Animated contribution snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/vikash3401/vikash3401/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
