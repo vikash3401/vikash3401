@@ -113,9 +113,7 @@ A movie browsing/listing web app built with **HTML & CSS**.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vikash3401&theme=radical&hide_border=true" alt="Vikash's GitHub Streak" height="165"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vikash3401&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
