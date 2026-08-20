@@ -4,11 +4,7 @@
 </p>
 
 <!-- Animated typing subtitle -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+%2B+Problem+Solver+in+C%2B%2B;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+%2B+Problem+Solver+in+C%2B%2B;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:vikashkumaryadav3401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
