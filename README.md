@@ -80,7 +80,7 @@ Full-stack notes app built with **Node.js, Express.js, MongoDB, HTML, CSS, JavaS
 - ✅ Optimized database interactions for reliable note management
 - ✅ Clean, user-friendly interface
 
-📂 **Repository:** [github.com/vikash3401/notes-nodejs-app](https://github.com/vikash3401/notes-nodejs-app)
+📂 **Repository:** [https://github.com/vikash3401/Note-Management-Application-](https://github.com/vikash3401/Note-Management-Application-)
 
 ### 🎬 Movie App
 A movie browsing/listing web app built with **HTML & CSS**.
