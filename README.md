@@ -25,7 +25,7 @@
 1. 🎓 B.Tech in Computer Science Engineering from **Quantum University, Roorkee** (2026)
 2. 💻 Hands-on experience in **MERN Stack development**, building scalable full stack web applications
 3. 🧠 Strong foundation in **Data Structures & Algorithms**, OOPs, SDLC, and Software Testing
-4. 🛠️ Completed a **Software Development Internship at 1M1B (1 Million for 1 Billion) India** (Jul–Aug 2025), working on full-stack MERN apps and RESTful APIs
+4. 🛠️ Completed a **Software Developer Intern at 1M1B (1 Million for 1 Billion) India** (Jul–Aug 2025), working on full-stack MERN apps and RESTful APIs
 5. 🌱 Currently sharpening problem-solving skills with **C++ DSA** while building real-world projects
 6. 🎯 Eager to contribute technical expertise and deliver high-quality software solutions
 
